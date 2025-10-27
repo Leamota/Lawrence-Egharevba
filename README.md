@@ -1,7 +1,7 @@
 # Lawrence-Egharevba
 ## 🎓 Certifications
 
-- **MATLAB Certification Training** — MathLab  
+- **MATLAB Certification Training** — MathWorks  
   *Completed: [October 2025]*  
   *Skills gained:* MATLAB programming, image processing and computer vision.
   
